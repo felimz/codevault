@@ -1,5 +1,4 @@
 import scrape
-# the scrape library is used to scrape reddit content
 
 
 # main function code goes here
